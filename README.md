@@ -1,7 +1,7 @@
 # TunaikuAssesment
 
 ## About This Project
-* This Project Build by : [adya bukhari](https://www.github.com/abkhrr). This App is build for complete the assessment with [Tunaiku](https://tunaiku.com/).
+This Project Build by : [adya bukhari](https://www.github.com/abkhrr). This App is build for complete the assessment with [Tunaiku](https://tunaiku.com/).
 
 ## This Project build with :
 * [Dagger 2.x](https://dagger.dev/)
